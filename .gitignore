@@ -1,0 +1,16 @@
+# .vs folder
+.vs/
+
+# Windows Installer files
+Thumbs.db
+Desktop.ini
+
+# Build results
+bin/
+obj/
+
+# User-specific files
+*.user
+*.userosscache
+*.suo
+*.userprefs
